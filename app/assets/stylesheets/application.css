@@ -20,6 +20,11 @@
  p {
   font-style: italic;
  }
+
+ .question {
+  font-style: normal;
+ }
+
  .bold {
   font-weight: bold;
   font-style: normal;
@@ -29,8 +34,10 @@
  .fond {
   background-color: rgb(255, 251, 193);
   padding-left: 15px;
+  box-shadow: -5px 0px 0px 0px rgb(177, 177, 177);
  }
 
  .fond1 {
   padding-left: 15px;
+  box-shadow: -5px 0px 0px 0px rgb(177, 177, 177);
  }
