@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+ .link {
+  text-decoration: none;
+ }
+
+ p {
+  font-style: italic;
+ }
+ .bold {
+  font-weight: bold;
+  font-style: normal;
+  margin: 0px;
+ }
+
+ .fond {
+  background-color: rgb(255, 251, 193);
+  padding-left: 15px;
+ }
+
+ .fond1 {
+  padding-left: 15px;
+ }
